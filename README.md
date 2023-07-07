@@ -5,6 +5,7 @@ A new Flutter application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+You can use it as a gate to connect with google fireBase since it provides all the basic functionality that you might need 
 
 A few resources to get you started if this is your first Flutter project:
 
